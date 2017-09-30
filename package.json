@@ -1,0 +1,18 @@
+{
+  "name": "flyzone",
+  "version": "1.0.0",
+  "description": "process   - scope all sass to the name of the component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "coffee _src/build.coffee"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffeescript": "^2.0.1",
+    "node-sass": "^4.5.3",
+    "walk": "^2.3.9"
+  }
+}
